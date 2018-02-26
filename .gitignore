@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
-
+*.iml
+*.idea
+target/
+src/test/resources/input
 # Log file
 *.log
 
